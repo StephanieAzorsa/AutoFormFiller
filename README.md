@@ -40,7 +40,7 @@ Este proyecto está diseñado para automatizar el proceso de llenado y envío de
 
 - **`AutoFormFilterTest.java`**: Contiene la lógica para automatizar el llenado del formulario y la ejecución de pruebas.
 - **`Person.java`**: Define la estructura de los datos de prueba.
--**`GenerateData.java`**: Genera datos de prueba para llenar el formulario.
+- **`GenerateData.java`**: Genera datos de prueba para llenar el formulario.
 
 ## 🚀 Uso
 
@@ -54,6 +54,6 @@ Este proyecto está diseñado para automatizar el proceso de llenado y envío de
 <img src="src/main/resources/assets/Preview.gif" alt="Preview of the app" width="800"/>
 
 ## 👩🏻‍💻 Mejoras Futuras 
-* Validaciones Avanzadas: Implementar validaciones más avanzadas para verificar los resultados del formulario después de su envío.
-* Manejo de Errores: Mejorar el manejo de errores y las notificaciones en caso de fallos durante la automatización.
 * Manejo con correos
+* Validaciones Avanzadas
+* Mejorar el manejo de errores y las notificaciones en caso de fallos durante la automatización.
